@@ -19,13 +19,17 @@ Simply copy (clone the repository) and see and read it.
 Basic usage
 -----------
  
-`$ git clone
-https://gitlab.com/book_synopses_and_code_samples/exceptional_cpp_h_sutter.git`
+```
+$ git clone
+https://gitlab.com/book_synopses_and_code_samples/exceptional_cpp_h_sutter.git
+```
 
 or
 
-`$ git clone
-https://github.com/ordinary-developer/book_exceptional_cpp_h_sutter.git`
+```
+$ git clone
+https://github.com/ordinary-developer/book_exceptional_cpp_h_sutter.git
+```
 
  
 License
